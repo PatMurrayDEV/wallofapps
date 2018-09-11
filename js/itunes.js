@@ -14,7 +14,7 @@ function getTopApps() {
 }
 
 function getAppWithId(appID) {
-    var url = "https://itunes.apple.com/lookup?id=" + appID
+    var url = "/app/" + appID
     var settings = {
         "async": true,
         "url": url,
