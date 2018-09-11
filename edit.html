@@ -154,11 +154,20 @@
                 var parts = lines[i].split('id');
                 var id = parts[1].split('?')[0];
                 console.log("id", id);
-                getAppWithId(id);
+
+                var country = lines[i].split('itunes.apple.com/');
+                country = country[1].split('/app');
+                if (country[0] && country[0].length === 2) {
+                    getAppWithId(id, country[0]);
+                } else {
+                    getAppWithId(id, "US");
+                }
+
+                
             }
         }
-        function getAppWithId(appID) {
-            $.getJSON("https://itunes.apple.com/lookup?callback=?&id=" + appID, function (response) {
+        function getAppWithId(appID, country) {
+            $.getJSON("https://itunes.apple.com/lookup?callback=?&id=" + appID + "&country=" + country, function (response) {
                 //response data are now in the result variable
 
                 var apps = response.results;
@@ -255,6 +264,7 @@
             });
         }
 
+        
     </script>
 </body>
 
