@@ -79,6 +79,8 @@ function layOutScreen(feed) {
    });
 }
 
+
+
 $( "body" ).dblclick(function() {
   var elem = document.body;
   if (elem.requestFullscreen) {
