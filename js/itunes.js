@@ -2,31 +2,39 @@ var freeApps;
 var paidApps;
 
 function getTopApps() {
-    // var settings = {
-    //     "async": true,
-    //     "url": "apps.json",
-    //     "method": "GET",
-    // }
-    // $.ajax(settings).done(function (response) {
-    //     console.log(response);
+    getFreeApps();
+    getPaidApps();
 
-    //     var apps = response.feed.results;
+    
+}
 
-    //     layOutScreen(apps);
-    // });
-
-    $.getJSON("https://rss.itunes.apple.com/api/v1/us/ios-apps/top-free/all/50/explicit.json", function(response){
-        //response data are now in the result variable
+function getPaidApps() {
+    var settings = {
+        "async": true,
+        "url": "/paid-apps",
+        "method": "GET",
+    }
+    $.ajax(settings).done(function (response) {
+        console.log(response);
 
         freeApps = response.feed.results;
-        saveApps([apps[0]]);
+
+        setAppStore();
     });
+}
 
-    $.getJSON("https://rss.itunes.apple.com/api/v1/us/ios-apps/top-paid/all/50/explicit.json", function(response){
-        //response data are now in the result variable
+function getFreeApps() {
+    var settings = {
+        "async": true,
+        "url": "/free-apps",
+        "method": "GET",
+    }
+    $.ajax(settings).done(function (response) {
+        console.log(response);
 
-        paidApps = response.feed.results;
-        saveApps([apps[0]]);
+        freeApps = response.feed.results;
+
+        setAppStore();
     });
 }
 
