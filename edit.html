@@ -163,7 +163,7 @@
                     getAppWithId(id, "US");
                 }
 
-                
+
             }
         }
         function getAppWithId(appID, country) {
@@ -187,7 +187,7 @@
             if (localapps && localapps.length > 0) {
                 localapps.forEach(app => {
                     var name = app.trackName;
-                    var obj = '<li>' + name + '</li>'
+                    var obj = '<li><button onclick="removeApp(' + app.trackID + ');">-</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
                     $("#current").append(obj)
                 });
             }
@@ -264,7 +264,20 @@
             });
         }
 
-        
+        function removeApp(id) {
+
+            var old = JSON.parse(localStorage.getItem("apps"));
+            if (old === null) old = [];
+
+            old = old.filter(function (item) {
+                return item.trackID !== id
+            })
+            
+            localStorage.setItem("apps", JSON.stringify(old));
+            getApps();
+        }
+
+
     </script>
 </body>
 
