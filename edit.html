@@ -248,7 +248,7 @@
         }
 
         function setTopApps(array) {
-            localapps.forEach(app => {
+            array.forEach(app => {
                 var name = app.trackName;
                 var obj = '<li>' + name + '<button onclick="getAppWithId(' + app.id + ');">+</button></li>'
                 $("#topapps").append(obj)
