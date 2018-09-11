@@ -187,7 +187,8 @@
             if (localapps && localapps.length > 0) {
                 localapps.forEach(app => {
                     var name = app.trackName;
-                    var obj = '<li><button onclick="removeApp(' + app.trackID + ');">-</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
+                    console.log(app);
+                    var obj = '<li><button onclick="removeApp(' + app.trackId + ');">-</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
                     $("#current").append(obj)
                 });
             }
@@ -269,9 +270,15 @@
             var old = JSON.parse(localStorage.getItem("apps"));
             if (old === null) old = [];
 
+            console.log(old);
+            console.log(id);
+
             old = old.filter(function (item) {
-                return item.trackID !== id
+                console.log(item.trackID);
+                return item.trackId !== id
             })
+
+            console.log(old);
             
             localStorage.setItem("apps", JSON.stringify(old));
             getApps();
