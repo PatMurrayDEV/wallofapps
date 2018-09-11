@@ -1,2 +1,2 @@
-/freeapps  https://rss.itunes.apple.com/api/v1/us/ios-apps/top-free/all/50/explicit.json id=:id 200
-/paidapps  https://rss.itunes.apple.com/api/v1/us/ios-apps/top-paid/all/50/explicit.json id=:id 200
+/free-apps  https://rss.itunes.apple.com/api/v1/us/ios-apps/top-free/all/50/explicit.json 200
+/paid-apps  https://rss.itunes.apple.com/api/v1/us/ios-apps/top-paid/all/50/explicit.json 200
