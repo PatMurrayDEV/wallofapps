@@ -1,1 +1,1 @@
-/app/:id  https://itunes.apple.com/lookup?id=:id 200
+/app/:id  https://itunes.apple.com/lookup id=:id 200

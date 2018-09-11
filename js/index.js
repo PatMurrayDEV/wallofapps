@@ -18,14 +18,20 @@ function Paginator(items, page, per_page) {
   };
 }
 
+var mq;
 
 function layOutScreen(feed) {
-
+  if (mq) {
+    $(mq).marquee('destroy');
+  }
+  
   $("#grid").empty();
 
-  var apps = feed;
+  var appsF = feed;
 
-  var count = (apps.length / 7) + 1;
+  console.log(appsF);
+
+  var count = (appsF.length / 7) + 1;
 
   var width = window.innerWidth
 
@@ -38,11 +44,13 @@ function layOutScreen(feed) {
 
   console.log(repeat)
 
-  console.log(apps.length);
+  console.log(appsF.length);
+
+  var apps = appsF;
 
   if ( repeat > 1 ) {
     for (let index = 0; index < repeat; index++)  {
-      apps = apps.concat(apps)
+      apps = apps.concat(appsF)
     }
   }
 
@@ -50,9 +58,11 @@ function layOutScreen(feed) {
 
   count = (apps.length / 7) + 1;
 
+  console.log(apps);
 
   for (let index = 1; index < count; index++) {
     var elements = Paginator(apps, index)
+    console.log(elements);
     if (elements.data.length == 7) {
       var subgrid = $('<div class="sub-grid"></div>');
       elements.data.forEach(app => {
@@ -64,7 +74,7 @@ function layOutScreen(feed) {
     }
   }
 
-  $('#grid').marquee({
+  mq = $('#grid').marquee({
     //speed in milliseconds of the marquee
     duration: 10000,
     //gap in pixels between the tickers
