@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+@keyframes animatedBackground {
+  from {
+    left: 0%;
+  }
+  100% {
+    left:-200%;
+  }
+}
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-rows: 14.28vh;
+  grid-template-columns: 100vh;
+  writing-mode: vertical-lr;
+  grid-auto-flow: row;
+  /* position: relative; */
+  /* animation: animatedBackground 500s linear infinite; */
+}
+
+.sub-grid {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-rows: 14.28vh;
+  grid-template-columns: repeat(7, 14.28vh);
+  writing-mode: vertical-lr;
+  grid-auto-flow: row;
+  /* position: relative; */
+  /* animation: animatedBackground 500s linear infinite; */
+}
+
+.grid div {
+  background-color: black;
+  background-image: url("https://d33wubrfki0l68.cloudfront.net/20f8437fa98c266a69b9f65f302011da97b92515/app-icon.png");
+  background-size: 100% 100%;
+  margin: 1px;
+  width: 13vh;
+  height: 13vh;
+  padding: 0;
+border-radius: 24.137931%;
+}
+

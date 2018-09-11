@@ -1,0 +1,3086 @@
+{
+    "feed": {
+      "title": "Top Grossing iPad Apps",
+      "id": "https://rss.itunes.apple.com/api/v1/us/ios-apps/top-grossing-ipad/all/100/explicit.json",
+      "author": {
+        "name": "iTunes Store",
+        "uri": "http://wwww.apple.com/us/itunes/"
+      },
+      "links": [
+        {
+          "self": "https://rss.itunes.apple.com/api/v1/us/ios-apps/top-grossing-ipad/all/100/explicit.json"
+        },
+        {
+          "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=36&popId=46"
+        }
+      ],
+      "copyright": "Copyright © 2018 Apple Inc. Todos los derechos reservados.",
+      "country": "us",
+      "icon": "http://itunes.apple.com/favicon.ico",
+      "updated": "2018-09-10T01:48:35.000-07:00",
+      "results": [
+        {
+          "artistName": "Epic Games",
+          "id": "1261357853",
+          "releaseDate": "2018-03-15",
+          "name": "Fortnite",
+          "kind": "iosSoftware",
+          "copyright": "Fortnite © 2018 Epic Games, Inc. Epic, Epic Games, Unreal, Unreal Engine, and Fortnite are registered trademarks of Epic Games, Inc. in the USA (Reg. U.S. Pat. & Tm. Off.) and elsewhere.",
+          "artistId": "387428403",
+          "artistUrl": "https://itunes.apple.com/us/developer/epic-games/id387428403?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6a/92/5a/6a925afe-19a9-acae-3942-b755b069082a/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/fortnite/id1261357853?mt=8"
+        },
+        {
+          "artistName": "Roblox Corporation",
+          "id": "431946152",
+          "releaseDate": "2011-05-26",
+          "name": "ROBLOX",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Roblox Corporation",
+          "artistId": "431946155",
+          "artistUrl": "https://itunes.apple.com/us/developer/roblox-corporation/id431946155?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d6/07/f8/d607f876-bfff-1546-3e52-50dab614d473/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/roblox/id431946152?mt=8"
+        },
+        {
+          "artistName": "King",
+          "id": "553834731",
+          "releaseDate": "2012-11-14",
+          "name": "Candy Crush Saga",
+          "kind": "iosSoftware",
+          "copyright": "© King.com Limited 2011-2018. All rights reserved.",
+          "artistId": "526656015",
+          "artistUrl": "https://itunes.apple.com/us/developer/king/id526656015?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/82/e3/1c/82e31ced-152b-a440-52c8-1af0650c5d35/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/candy-crush-saga/id553834731?mt=8"
+        },
+        {
+          "artistName": "Netflix, Inc.",
+          "id": "363590051",
+          "releaseDate": "2010-04-01",
+          "name": "Netflix",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Netflix, Inc.",
+          "artistId": "363590054",
+          "artistUrl": "https://itunes.apple.com/us/developer/netflix-inc/id363590054?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/51/da/29/51da29c1-d265-28fc-a1d1-3a702205cbd4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "6012",
+              "name": "Lifestyle",
+              "url": "https://itunes.apple.com/us/genre/id6012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/netflix/id363590051?mt=8"
+        },
+        {
+          "artistName": "Double Down Interactive LLC",
+          "id": "485126024",
+          "releaseDate": "2012-03-01",
+          "name": "DoubleDown Casino Slots & More",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 DoubleDown Interactive LLC",
+          "artistId": "485126027",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/double-down-interactive-llc/id485126027?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/38/32/0e/38320e11-1413-f0a1-5246-fdf77aed3153/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/doubledown-casino-slots-more/id485126024?mt=8"
+        },
+        {
+          "artistName": "King",
+          "id": "850417475",
+          "releaseDate": "2014-11-11",
+          "name": "Candy Crush Soda Saga",
+          "kind": "iosSoftware",
+          "copyright": "© King.com Limited 2014-2018. All rights reserved.",
+          "artistId": "526656015",
+          "artistUrl": "https://itunes.apple.com/us/developer/king/id526656015?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/71/cd/bb/71cdbbd6-822d-8a04-9581-f53531cfa216/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/candy-crush-soda-saga/id850417475?mt=8"
+        },
+        {
+          "artistName": "Playtika LTD",
+          "id": "447553564",
+          "releaseDate": "2011-11-07",
+          "name": "Slotomania™ Vegas Casino Slots",
+          "kind": "iosSoftware",
+          "copyright": "© Playtika LTD",
+          "artistId": "447553567",
+          "artistUrl": "https://itunes.apple.com/us/developer/playtika-ltd/id447553567?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/34/39/32/343932af-daa8-9a58-f100-49d7c3a7fd02/AppIcons-1x_U007emarketing-0-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/slotomania-vegas-casino-slots/id447553564?mt=8"
+        },
+        {
+          "artistName": "Product Madness",
+          "id": "785537179",
+          "releaseDate": "2014-07-26",
+          "name": "Heart of Vegas – Slots Casino",
+          "kind": "iosSoftware",
+          "copyright": "© Product Madness",
+          "artistId": "525894639",
+          "artistUrl": "https://itunes.apple.com/us/developer/product-madness/id525894639?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/bc/22/ba/bc22ba64-60e3-aed7-3d23-85160d6d42c0/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/heart-of-vegas-slots-casino/id785537179?mt=8"
+        },
+        {
+          "artistName": "Pacific-Interactive ltd",
+          "id": "586634331",
+          "releaseDate": "2013-03-14",
+          "name": "House of Fun™ - Slots Casino",
+          "kind": "iosSoftware",
+          "copyright": "© Playtika UK House of Fun Limited",
+          "artistId": "580824260",
+          "artistUrl": "https://itunes.apple.com/us/developer/pacific-interactive-ltd/id580824260?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/26/fe/88/26fe8899-bd28-dd97-9fc8-01209816a55b/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/house-of-fun-slots-casino/id586634331?mt=8"
+        },
+        {
+          "artistName": "Phantom EFX",
+          "id": "575980917",
+          "releaseDate": "2012-12-12",
+          "name": "Jackpot Party - Casino Slots",
+          "kind": "iosSoftware",
+          "copyright": "© 2012 Scientific Games Interactive",
+          "artistId": "310624343",
+          "artistUrl": "https://itunes.apple.com/us/developer/phantom-efx/id310624343?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/be/95/2b/be952bc8-1317-c64e-2079-8bc1ff832805/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6005",
+              "name": "Social Networking",
+              "url": "https://itunes.apple.com/us/genre/id6005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/jackpot-party-casino-slots/id575980917?mt=8"
+        },
+        {
+          "artistName": "Playrix Games",
+          "id": "664575829",
+          "releaseDate": "2015-12-10",
+          "name": "Fishdom",
+          "kind": "iosSoftware",
+          "copyright": "© 2013 Playrix",
+          "artistId": "1162116447",
+          "artistUrl": "https://itunes.apple.com/us/developer/playrix-games/id1162116447?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/9c/83/f99c8338-e40e-7119-27de-9d6fb6e7f26b/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/fishdom/id664575829?mt=8"
+        },
+        {
+          "artistName": "Playtika Santa Monica, LLC",
+          "id": "529996768",
+          "releaseDate": "2012-08-09",
+          "name": "Bingo Blitz - Bingo Games",
+          "kind": "iosSoftware",
+          "copyright": "© 2011-2016 Buffalo Studios, LLC",
+          "artistId": "504720043",
+          "artistUrl": "https://itunes.apple.com/us/developer/playtika-santa-monica-llc/id504720043?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a2/53/9c/a2539c87-e2d0-3ca0-8106-2f41adef5c56/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7004",
+              "name": "Board",
+              "url": "https://itunes.apple.com/us/genre/id7004"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/bingo-blitz-bingo-games/id529996768?mt=8"
+        },
+        {
+          "artistName": "Huuuge Global Ltd.",
+          "id": "1028362533",
+          "releaseDate": "2015-09-11",
+          "name": "Huuuge Casino™ - Slot Machines",
+          "kind": "iosSoftware",
+          "copyright": "© 2015 Huuuge",
+          "artistId": "1222929957",
+          "artistUrl": "https://itunes.apple.com/us/developer/huuuge-global-ltd/id1222929957?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/e3/38/88/e33888f0-c399-0619-a83a-798d0e504b11/pr_source.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/huuuge-casino-slot-machines/id1028362533?mt=8"
+        },
+        {
+          "artistName": "Playrix Games",
+          "id": "1195621598",
+          "releaseDate": "2017-09-19",
+          "name": "Homescapes",
+          "kind": "iosSoftware",
+          "copyright": "© 2017 Playrix",
+          "artistId": "1162116447",
+          "artistUrl": "https://itunes.apple.com/us/developer/playrix-games/id1162116447?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/9b/09/f0/9b09f0a0-a741-b67b-1b7c-344376e98ef8/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/homescapes/id1195621598?mt=8"
+        },
+        {
+          "artistName": "Playrix Games",
+          "id": "1105855019",
+          "releaseDate": "2016-08-25",
+          "name": "Gardenscapes",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Playrix",
+          "artistId": "1162116447",
+          "artistUrl": "https://itunes.apple.com/us/developer/playrix-games/id1162116447?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/39/cd/fa39cd0f-baba-8e7a-4bbf-09d1a05cd455/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/gardenscapes/id1105855019?mt=8"
+        },
+        {
+          "artistName": "Big Fish Games, Inc",
+          "id": "538212549",
+          "releaseDate": "2012-08-16",
+          "name": "Big Fish Casino: Slots & Games",
+          "kind": "iosSoftware",
+          "copyright": "© Big Fish Games, Inc.",
+          "artistId": "292594310",
+          "artistUrl": "https://itunes.apple.com/us/developer/big-fish-games-inc/id292594310?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/43/ba/65/43ba6575-0191-a580-5567-145a2418826c/AppIcon-1x_U007emarketing-85-220-7.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/big-fish-casino-slots-games/id538212549?mt=8"
+        },
+        {
+          "artistName": "DoubleUGames Co., Ltd.",
+          "id": "642727743",
+          "releaseDate": "2013-09-23",
+          "name": "DoubleU Casino: Vegas Slots",
+          "kind": "iosSoftware",
+          "copyright": "© Afewgoodsoft .Inc",
+          "artistId": "642727746",
+          "artistUrl": "https://itunes.apple.com/us/developer/doubleugames-co-ltd/id642727746?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/30/ae/66/30ae666c-a738-0ef8-4906-bead7857d4c3/AppIcon-1x_U007emarketing-0-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/doubleu-casino-vegas-slots/id642727743?mt=8"
+        },
+        {
+          "artistName": "Peak Games",
+          "id": "1176027022",
+          "releaseDate": "2017-08-15",
+          "name": "Toon Blast",
+          "kind": "iosSoftware",
+          "copyright": "© Peak Games 2018",
+          "artistId": "476160947",
+          "artistUrl": "https://itunes.apple.com/us/developer/peak-games/id476160947?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/f7/f7/0b/f7f70be2-cfd9-68b0-356c-77d88400c3ef/AppIcon-1x_U007emarketing-0-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/toon-blast/id1176027022?mt=8"
+        },
+        {
+          "artistName": "Playrix Games",
+          "id": "638689075",
+          "releaseDate": "2013-10-24",
+          "name": "Township",
+          "kind": "iosSoftware",
+          "copyright": "© 2013 Playrix",
+          "artistId": "1162116447",
+          "artistUrl": "https://itunes.apple.com/us/developer/playrix-games/id1162116447?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2d/04/b0/2d04b084-a420-4a55-3770-96fb42360994/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/township/id638689075?mt=8"
+        },
+        {
+          "artistName": "Product Madness",
+          "id": "1123582513",
+          "releaseDate": "2017-07-14",
+          "name": "Cashman Casino Vegas Slot Game",
+          "kind": "iosSoftware",
+          "copyright": "© Product Madness",
+          "artistId": "525894639",
+          "artistUrl": "https://itunes.apple.com/us/developer/product-madness/id525894639?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/88/86/b6/8886b6e1-e5a8-3c8c-c232-0db758a0e668/AppIcon-1x_U007emarketing-GLES2_U002c0-512MB-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6012",
+              "name": "Lifestyle",
+              "url": "https://itunes.apple.com/us/genre/id6012"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/cashman-casino-vegas-slot-game/id1123582513?mt=8"
+        },
+        {
+          "artistName": "Mojang",
+          "id": "479516143",
+          "releaseDate": "2011-11-17",
+          "name": "Minecraft",
+          "kind": "iosSoftware",
+          "copyright": "© Mojang AB",
+          "artistId": "479516146",
+          "artistUrl": "https://itunes.apple.com/us/developer/mojang/id479516146?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/2d/9d/af/2d9daf22-5f01-e93b-1bb7-19640a401b70/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/minecraft/id479516143?mt=8"
+        },
+        {
+          "artistName": "HBO",
+          "id": "971265422",
+          "releaseDate": "2015-04-07",
+          "name": "HBO NOW",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Home Box Office, Inc. All Rights Reserved.",
+          "artistId": "300988148",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/hbo/id300988148?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/d3/51/0d/d3510d81-a4f8-9b4d-9f9f-173bba7f2259/AppIconNOW-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "6012",
+              "name": "Lifestyle",
+              "url": "https://itunes.apple.com/us/genre/id6012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/hbo-now/id971265422?mt=8"
+        },
+        {
+          "artistName": "Google, Inc.",
+          "id": "544007664",
+          "releaseDate": "2012-09-11",
+          "name": "YouTube: Watch, Listen, Stream",
+          "kind": "iosSoftware",
+          "copyright": "© 2017 Google Inc.",
+          "artistId": "281956209",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/cc/52/9e/cc529e60-e489-6b58-4de3-1b795347586f/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6008",
+              "name": "Photo & Video",
+              "url": "https://itunes.apple.com/us/genre/id6008"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8"
+        },
+        {
+          "artistName": "Hulu, LLC",
+          "id": "376510438",
+          "releaseDate": "2010-06-29",
+          "name": "Hulu: Watch TV Shows & Movies",
+          "kind": "iosSoftware",
+          "copyright": "Copyright © 2018 Hulu, LLC. All Rights Reserved.",
+          "artistId": "376510441",
+          "artistUrl": "https://itunes.apple.com/us/developer/hulu-llc/id376510441?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ca/ec/1f/caec1f9e-9a5c-b0f5-b850-02798188d356/HuluAppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "6012",
+              "name": "Lifestyle",
+              "url": "https://itunes.apple.com/us/genre/id6012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/hulu-watch-tv-shows-movies/id376510438?mt=8"
+        },
+        {
+          "artistName": "Peak Games",
+          "id": "890378044",
+          "releaseDate": "2015-01-06",
+          "name": "Toy Blast",
+          "kind": "iosSoftware",
+          "copyright": "© 2015 Peak Games",
+          "artistId": "476160947",
+          "artistUrl": "https://itunes.apple.com/us/developer/peak-games/id476160947?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/57/96/6d/57966da5-a101-1e6e-8c42-ed5c9754b983/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/toy-blast/id890378044?mt=8"
+        },
+        {
+          "artistName": "FunPlus",
+          "id": "1274354704",
+          "releaseDate": "2017-09-21",
+          "name": "Guns of Glory",
+          "kind": "iosSoftware",
+          "copyright": "© Published & copyrighted by DIANDIAN INTERACTIVE HOLDING",
+          "artistId": "495598783",
+          "artistUrl": "https://itunes.apple.com/us/developer/funplus/id495598783?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/00/b6/5a/00b65a4d-5650-1bd7-95d6-6263bb7a97ba/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/guns-of-glory/id1274354704?mt=8"
+        },
+        {
+          "artistName": "Age of Learning, Inc.",
+          "id": "586328581",
+          "releaseDate": "2012-12-14",
+          "name": "ABCmouse.com",
+          "kind": "iosSoftware",
+          "copyright": "© Age of Learning, Inc.",
+          "artistId": "375219200",
+          "artistUrl": "https://itunes.apple.com/us/developer/age-of-learning-inc/id375219200?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/7d/c3/ec/7dc3ecba-dd41-7b40-8df3-b57d09005168/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6017",
+              "name": "Education",
+              "url": "https://itunes.apple.com/us/genre/id6017"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/abcmouse-com/id586328581?mt=8"
+        },
+        {
+          "artistName": "MyTona",
+          "id": "940292587",
+          "releaseDate": "2015-07-30",
+          "name": "Seekers Notes®",
+          "kind": "iosSoftware",
+          "copyright": "MyTona Pte. Ltd. © 2015-2018 MyTona Pte. Ltd. All rights reserved ®2017 MyTona Pte. Ltd.",
+          "artistId": "1035473178",
+          "artistUrl": "https://itunes.apple.com/us/developer/mytona/id1035473178?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/76/74/d1/7674d1a6-c91a-0dea-426e-d4ae21cb3183/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/seekers-notes/id940292587?mt=8"
+        },
+        {
+          "artistName": "Zynga Inc.",
+          "id": "916869395",
+          "releaseDate": "2014-11-12",
+          "name": "Wizard of Oz: Casino Slots",
+          "kind": "iosSoftware",
+          "copyright": "© 2017 Zynga Inc",
+          "artistId": "295913422",
+          "artistUrl": "https://itunes.apple.com/us/developer/zynga-inc/id295913422?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/f0/44/fc/f044fc04-fb86-18f3-afa3-dfa984c22834/WozAppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/wizard-of-oz-casino-slots/id916869395?mt=8"
+        },
+        {
+          "artistName": "Supercell",
+          "id": "529479190",
+          "releaseDate": "2012-08-02",
+          "name": "Clash of Clans",
+          "kind": "iosSoftware",
+          "copyright": "© 2012 Supercell",
+          "artistId": "488106216",
+          "artistUrl": "https://itunes.apple.com/us/developer/supercell/id488106216?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/47/fe/e6/47fee670-3022-33c2-4d0a-bfd55859fc03/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/clash-of-clans/id529479190?mt=8"
+        },
+        {
+          "artistName": "Appchi Media Ltd",
+          "id": "945621521",
+          "releaseDate": "2015-09-18",
+          "name": "Casino Games – Quick Hit Slots",
+          "kind": "iosSoftware",
+          "copyright": "© Scientific Games",
+          "artistId": "486692023",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/appchi-media-ltd/id486692023?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/4e/bc/25/4ebc257a-0334-b918-c464-eedcc68e38c4/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/casino-games-quick-hit-slots/id945621521?mt=8"
+        },
+        {
+          "artistName": "Playtika LTD",
+          "id": "719525810",
+          "releaseDate": "2013-11-20",
+          "name": "World Series of Poker - WSOP",
+          "kind": "iosSoftware",
+          "copyright": "© Playtika LTD",
+          "artistId": "447553567",
+          "artistUrl": "https://itunes.apple.com/us/developer/playtika-ltd/id447553567?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/87/40/e5/8740e541-81b8-c13c-ad83-797d67c7ba9b/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/world-series-of-poker-wsop/id719525810?mt=8"
+        },
+        {
+          "artistName": "Supercell",
+          "id": "506627515",
+          "releaseDate": "2012-06-21",
+          "name": "Hay Day",
+          "kind": "iosSoftware",
+          "copyright": "© 2012-2017 Supercell",
+          "artistId": "488106216",
+          "artistUrl": "https://itunes.apple.com/us/developer/supercell/id488106216?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/ce/24/91/ce2491f8-3b3e-377b-282b-bc0353ad1f10/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7009",
+              "name": "Family",
+              "url": "https://itunes.apple.com/us/genre/id7009"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/hay-day/id506627515?mt=8"
+        },
+        {
+          "artistName": "Google, Inc.",
+          "id": "1193350206",
+          "releaseDate": "2017-04-05",
+          "name": "YouTube TV",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Google Inc.",
+          "artistId": "281956209",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/google-inc/id281956209?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/53/6a/f0/536af047-deb7-ed86-a5ad-6d2bc51852ea/AppIconV2-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/youtube-tv/id1193350206?mt=8"
+        },
+        {
+          "artistName": "Phantom EFX",
+          "id": "806393795",
+          "releaseDate": "2014-06-04",
+          "name": "Slots Games - Gold Fish Casino",
+          "kind": "iosSoftware",
+          "copyright": "© 2014 Scientific Games Interactive",
+          "artistId": "310624343",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/phantom-efx/id310624343?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cb/31/be/cb31be9a-5344-cd38-d64e-97c334faf32d/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/slots-games-gold-fish-casino/id806393795?mt=8"
+        },
+        {
+          "artistName": "G5 Entertainment AB",
+          "id": "722217471",
+          "releaseDate": "2014-02-20",
+          "name": "Hidden City",
+          "kind": "iosSoftware",
+          "copyright": "© 2014 - 2018 AB GAMES. Published by G5 Entertainment AB. All Rights Reserved.",
+          "artistId": "305426797",
+          "artistUrl": "https://itunes.apple.com/us/developer/g5-entertainment-ab/id305426797?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/54/1c/47/541c4715-4400-2beb-3f5c-087a0a77cf54/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/hidden-city/id722217471?mt=8"
+        },
+        {
+          "artistName": "Cubic Games",
+          "id": "640111933",
+          "releaseDate": "2013-05-02",
+          "name": "Pixel Gun 3D: Battle Royale",
+          "kind": "iosSoftware",
+          "copyright": "© Pixel Gun 3D",
+          "artistId": "561634640",
+          "artistUrl": "https://itunes.apple.com/us/developer/cubic-games/id561634640?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/7f/ac/a17facb4-4458-307f-8cdd-68b2e5b15797/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/pixel-gun-3d-battle-royale/id640111933?mt=8"
+        },
+        {
+          "artistName": "Crowdstar Inc",
+          "id": "1010962391",
+          "releaseDate": "2016-11-15",
+          "name": "Design Home",
+          "kind": "iosSoftware",
+          "copyright": "© 2016-2018 Crowdstar, Inc.",
+          "artistId": "321598392",
+          "artistUrl": "https://itunes.apple.com/us/developer/crowdstar-inc/id321598392?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1c/d9/df/1cd9df0e-f28c-6ce7-9828-03c8941e7b1e/AppIcon-1x_U007emarketing-0-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "6012",
+              "name": "Lifestyle",
+              "url": "https://itunes.apple.com/us/genre/id6012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/design-home/id1010962391?mt=8"
+        },
+        {
+          "artistName": "Pocket Gems, Inc.",
+          "id": "958763157",
+          "releaseDate": "2015-04-16",
+          "name": "War Dragons",
+          "kind": "iosSoftware",
+          "copyright": "© 2015, Pocket Gems Inc.",
+          "artistId": "335932431",
+          "artistUrl": "https://itunes.apple.com/us/developer/pocket-gems-inc/id335932431?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/83/7a/d6837a91-c76f-c3ec-edd0-6125c5ef84ac/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/war-dragons/id958763157?mt=8"
+        },
+        {
+          "artistName": "Starz Entertainment, LLC",
+          "id": "550221096",
+          "releaseDate": "2012-10-01",
+          "name": "STARZ",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Starz Entertainment, LLC",
+          "artistId": "550221102",
+          "contentAdvisoryRating": "Explicit",
+          "artistUrl": "https://itunes.apple.com/us/developer/starz-entertainment-llc/id550221102?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c8/66/50/c8665082-578a-9c14-b002-04d3e52ad6d8/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/starz/id550221096?mt=8"
+        },
+        {
+          "artistName": "Jam City, Inc.",
+          "id": "727296976",
+          "releaseDate": "2014-02-26",
+          "name": "Cookie Jam Matching Game",
+          "kind": "iosSoftware",
+          "copyright": "© Jam City",
+          "artistId": "290671617",
+          "artistUrl": "https://itunes.apple.com/us/developer/jam-city-inc/id290671617?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ea/a2/d6/eaa2d6a3-b080-ec27-b1c6-df679caa1f43/AppIcon-1x_U007emarketing-85-220-3.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/cookie-jam-matching-game/id727296976?mt=8"
+        },
+        {
+          "artistName": "Supercell",
+          "id": "1053012308",
+          "releaseDate": "2016-03-02",
+          "name": "Clash Royale",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Supercell Oy",
+          "artistId": "488106216",
+          "artistUrl": "https://itunes.apple.com/us/developer/supercell/id488106216?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/9f/f2/b29ff2ec-4791-d434-4904-245cf86a74b0/AppIcon-1x_U007emarketing-0-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/clash-royale/id1053012308?mt=8"
+        },
+        {
+          "artistName": "PlayStudios",
+          "id": "1040172229",
+          "releaseDate": "2015-12-23",
+          "name": "my KONAMI Slots – Casino Slots",
+          "kind": "iosSoftware",
+          "copyright": "© (c) 2013-2018 PlayStudios, Inc.",
+          "artistId": "624795774",
+          "artistUrl": "https://itunes.apple.com/us/developer/playstudios/id624795774?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/1e/8b/e4/1e8be436-6279-82af-9558-515bbb191062/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/my-konami-slots-casino-slots/id1040172229?mt=8"
+        },
+        {
+          "artistName": "Huuuge Games Sp. z o.o.",
+          "id": "1098617974",
+          "releaseDate": "2016-10-20",
+          "name": "Billionaire Casino™ Slots 777",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Huuuge",
+          "artistId": "314395447",
+          "artistUrl": "https://itunes.apple.com/us/developer/huuuge-games-sp-z-o-o/id314395447?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/68/12/d9/6812d953-3e1d-8bd9-9a9a-d0f36242cc5a/pr_source.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/billionaire-casino-slots-777/id1098617974?mt=8"
+        },
+        {
+          "artistName": "BitRhymes Inc.",
+          "id": "486363584",
+          "releaseDate": "2012-04-10",
+          "name": "Bingo Bash HD - Bingo & Slots",
+          "kind": "iosSoftware",
+          "copyright": "© 2015 GSN All Rights Reserved",
+          "artistId": "311349149",
+          "artistUrl": "https://itunes.apple.com/us/developer/bitrhymes-inc/id311349149?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/ba/5e/b5/ba5eb53a-a23e-749e-11f9-7e851667f532/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/bingo-bash-hd-bingo-slots/id486363584?mt=8"
+        },
+        {
+          "artistName": "Epic Action LLC",
+          "id": "1186994231",
+          "releaseDate": "2017-06-28",
+          "name": "Final Fantasy XV: A New Empire",
+          "kind": "iosSoftware",
+          "copyright": "© 2017",
+          "artistId": "1140629705",
+          "artistUrl": "https://itunes.apple.com/us/developer/epic-action-llc/id1140629705?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/66/0b/85/660b8528-86d6-de0d-aef3-2ffc5d2b5c33/mzl.psqizren.jpg/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            },
+            {
+              "genreId": "6005",
+              "name": "Social Networking",
+              "url": "https://itunes.apple.com/us/genre/id6005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/final-fantasy-xv-a-new-empire/id1186994231?mt=8"
+        },
+        {
+          "artistName": "Big Fish Games, Inc",
+          "id": "828578246",
+          "releaseDate": "2014-09-08",
+          "name": "Gummy Drop! – A Match 3 Game",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Big Fish Games, Inc.",
+          "artistId": "292594310",
+          "artistUrl": "https://itunes.apple.com/us/developer/big-fish-games-inc/id292594310?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/08/c5/2d/08c52d71-3a98-919c-a9b5-8c3d0f599c7a/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/gummy-drop-a-match-3-game/id828578246?mt=8"
+        },
+        {
+          "artistName": "Rovio Entertainment Oyj",
+          "id": "880047117",
+          "releaseDate": "2015-07-30",
+          "name": "Angry Birds 2",
+          "kind": "iosSoftware",
+          "copyright": "© Rovio Entertainment Corporation",
+          "artistId": "298910979",
+          "artistUrl": "https://itunes.apple.com/us/developer/rovio-entertainment-oyj/id298910979?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/d0/c2/e1/d0c2e1c6-3e65-5ef2-6327-85697363be86/AppIcon-1x_U007emarketing-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/angry-birds-2/id880047117?mt=8"
+        },
+        {
+          "artistName": "Epic! Creations Inc",
+          "id": "719219382",
+          "releaseDate": "2013-12-01",
+          "name": "Epic!",
+          "kind": "iosSoftware",
+          "copyright": "© 2017 Epic! Creations Inc",
+          "artistId": "719219385",
+          "artistUrl": "https://itunes.apple.com/us/developer/epic-creations-inc/id719219385?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/31/45/d6/3145d6b6-1052-4ab4-8fd3-9ba359a46782/AppIcon-1x_U007emarketing-P3-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6017",
+              "name": "Education",
+              "url": "https://itunes.apple.com/us/genre/id6017"
+            },
+            {
+              "genreId": "6018",
+              "name": "Books",
+              "url": "https://itunes.apple.com/us/genre/id6018"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/epic/id719219382?mt=8"
+        },
+        {
+          "artistName": "PlayStudios",
+          "id": "1065980436",
+          "releaseDate": "2016-07-18",
+          "name": "POP! Slots – Casino Slot Games",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 PlayStudios, Inc.",
+          "artistId": "624795774",
+          "artistUrl": "https://itunes.apple.com/us/developer/playstudios/id624795774?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/67/75/9e/67759e3a-fe5b-5bce-f545-993673c243a5/AppIcon-1x_U007emarketing-85-220-3.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/pop-slots-casino-slot-games/id1065980436?mt=8"
+        },
+        {
+          "artistName": "Game Show Network",
+          "id": "469231420",
+          "releaseDate": "2011-12-16",
+          "name": "GSN Casino: Slot Machine Games",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 GSN  All Rights Reserved.",
+          "artistId": "342254535",
+          "artistUrl": "https://itunes.apple.com/us/developer/game-show-network/id342254535?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/7b/1f/33/7b1f331e-3361-0c35-9ae9-f7bf0f8da2a3/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/gsn-casino-slot-machine-games/id469231420?mt=8"
+        },
+        {
+          "artistName": "Pandora Media, Inc.",
+          "id": "284035177",
+          "releaseDate": "2008-07-11",
+          "name": "Pandora Music",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Pandora Media, Inc.",
+          "artistId": "284035180",
+          "artistUrl": "https://itunes.apple.com/us/developer/pandora-media-inc/id284035180?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/40/d7/e9/40d7e9e9-f68a-f5ee-9b21-0e32ba7f41f2/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6011",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id6011"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/pandora-music/id284035177?mt=8"
+        },
+        {
+          "artistName": "Murka Entertainment Limited",
+          "id": "944158857",
+          "releaseDate": "2015-01-02",
+          "name": "Scatter Slots: Hot Vegas Slots",
+          "kind": "iosSoftware",
+          "copyright": "© Murka Entertainment Limited",
+          "artistId": "476936085",
+          "artistUrl": "https://itunes.apple.com/us/developer/murka-entertainment-limited/id476936085?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/eb/6c/c3/eb6cc373-47b2-504d-9583-a1d332e05018/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/scatter-slots-hot-vegas-slots/id944158857?mt=8"
+        },
+        {
+          "artistName": "Electronic Arts",
+          "id": "855627886",
+          "releaseDate": "2014-08-26",
+          "name": "Madden NFL Overdrive Football",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Electronic Arts Inc. All Rights Reserved.",
+          "artistId": "284800461",
+          "artistUrl": "https://itunes.apple.com/us/developer/electronic-arts/id284800461?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/8c/9f/0b/8c9f0be0-dbf8-0bdd-7c33-2856f2dc95ff/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6004",
+              "name": "Sports",
+              "url": "https://itunes.apple.com/us/genre/id6004"
+            },
+            {
+              "genreId": "7016",
+              "name": "Sports",
+              "url": "https://itunes.apple.com/us/genre/id7016"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/madden-nfl-overdrive-football/id855627886?mt=8"
+        },
+        {
+          "artistName": "Storm8 Studios",
+          "id": "1339938732",
+          "releaseDate": "2018-01-31",
+          "name": "Home Design Makeover!",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Storm8 Studios LLC",
+          "artistId": "967465771",
+          "artistUrl": "https://itunes.apple.com/us/developer/storm8-studios/id967465771?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/20/18/10/201810b0-5ab7-33d9-b503-8663fc3a0f08/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/home-design-makeover/id1339938732?mt=8"
+        },
+        {
+          "artistName": "King",
+          "id": "1047246341",
+          "releaseDate": "2016-01-06",
+          "name": "Candy Crush Jelly Saga",
+          "kind": "iosSoftware",
+          "copyright": "© King.com Limited 2014-2016. All rights reserved.",
+          "artistId": "526656015",
+          "artistUrl": "https://itunes.apple.com/us/developer/king/id526656015?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/28/a8/66/28a86686-3582-7693-c880-637c16c18268/AppIcon-1x_U007emarketing-0-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/candy-crush-jelly-saga/id1047246341?mt=8"
+        },
+        {
+          "artistName": "Zynga Inc.",
+          "id": "694876905",
+          "releaseDate": "2013-12-10",
+          "name": "Hit it Rich! Casino Slots",
+          "kind": "iosSoftware",
+          "copyright": "© 2017 Zynga Inc.",
+          "artistId": "295913422",
+          "artistUrl": "https://itunes.apple.com/us/developer/zynga-inc/id295913422?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/47/3b/c4/473bc4ea-47bb-dd3d-269c-61b5fb802bbd/AppIcon-1x_U007emarketing-85-220-6.jpeg/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/hit-it-rich-casino-slots/id694876905?mt=8"
+        },
+        {
+          "artistName": "Playtika LTD",
+          "id": "718985796",
+          "releaseDate": "2013-12-18",
+          "name": "Caesars Slots – Casino Games",
+          "kind": "iosSoftware",
+          "copyright": "© Playtika LTD",
+          "artistId": "447553567",
+          "artistUrl": "https://itunes.apple.com/us/developer/playtika-ltd/id447553567?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/dc/9d/72/dc9d72ef-3795-7de3-69be-3d0f30867eaf/AppIconIPad-1x_U007emarketing-85-220-1.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/caesars-slots-casino-games/id718985796?mt=8"
+        },
+        {
+          "artistName": "Pixonic Games LTD",
+          "id": "806077016",
+          "releaseDate": "2014-04-15",
+          "name": "War Robots",
+          "kind": "iosSoftware",
+          "copyright": "© Pixonic LLC",
+          "artistId": "1292570999",
+          "artistUrl": "https://itunes.apple.com/us/developer/pixonic-games-ltd/id1292570999?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/e0/e8/cf/e0e8cf89-2b34-02a3-d5d9-669c07c65ad1/mzl.nchwrlih.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/war-robots/id806077016?mt=8"
+        },
+        {
+          "artistName": "CBS Interactive",
+          "id": "530168168",
+          "releaseDate": "2013-03-14",
+          "name": "CBS - Full Episodes & Live TV",
+          "kind": "iosSoftware",
+          "copyright": "© CBS",
+          "artistId": "295669712",
+          "artistUrl": "https://itunes.apple.com/us/developer/cbs-interactive/id295669712?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a7/22/bc/a722bc42-008e-c865-50c4-20a18f2305c4/AppIcon-1x_U007emarketing-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "6002",
+              "name": "Utilities",
+              "url": "https://itunes.apple.com/us/genre/id6002"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/cbs-full-episodes-live-tv/id530168168?mt=8"
+        },
+        {
+          "artistName": "wooga",
+          "id": "1200391796",
+          "releaseDate": "2017-10-04",
+          "name": "June's Journey: Hidden Objects",
+          "kind": "iosSoftware",
+          "copyright": "© Wooga GmbH",
+          "artistId": "461402737",
+          "artistUrl": "https://itunes.apple.com/us/developer/wooga/id461402737?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c6/d6/17/c6d61719-b14c-9e11-1085-1c9ef0735d58/AppIcon-1x_U007emarketing-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/junes-journey-hidden-objects/id1200391796?mt=8"
+        },
+        {
+          "artistName": "Kabam",
+          "id": "896112560",
+          "releaseDate": "2014-12-10",
+          "name": "MARVEL Contest of Champions",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 MARVEL MARVEL CONTEST OF CHAMPIONS SOFTWARE © 2018 KABAM, INC. DEVELOPED BY KABAM. ALL RIGHTS RESERVED.",
+          "artistId": "445459903",
+          "artistUrl": "https://itunes.apple.com/us/developer/kabam/id445459903?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/74/7f/54/747f5468-d416-bf82-1973-f37dd4f74ec9/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/marvel-contest-of-champions/id896112560?mt=8"
+        },
+        {
+          "artistName": "Playdemic",
+          "id": "1089225191",
+          "releaseDate": "2017-01-18",
+          "name": "Golf Clash",
+          "kind": "iosSoftware",
+          "copyright": "© Playdemic Ltd.",
+          "artistId": "505151958",
+          "artistUrl": "https://itunes.apple.com/us/developer/playdemic/id505151958?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/ea/54/1aea54bc-bf8e-f925-15ba-b8137408955d/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6004",
+              "name": "Sports",
+              "url": "https://itunes.apple.com/us/genre/id6004"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7016",
+              "name": "Sports",
+              "url": "https://itunes.apple.com/us/genre/id7016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/golf-clash/id1089225191?mt=8"
+        },
+        {
+          "artistName": "Microsoft Corporation",
+          "id": "586447913",
+          "releaseDate": "2014-03-27",
+          "name": "Microsoft Word",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Microsoft Corporation. All rights reserved.",
+          "artistId": "298856275",
+          "artistUrl": "https://itunes.apple.com/us/developer/microsoft-corporation/id298856275?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/c2/87/a0/c287a048-d0a8-d512-d11d-e666b8e2eb6b/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6007",
+              "name": "Productivity",
+              "url": "https://itunes.apple.com/us/genre/id6007"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8"
+        },
+        {
+          "artistName": "King",
+          "id": "608206510",
+          "releaseDate": "2014-01-02",
+          "name": "Farm Heroes Saga",
+          "kind": "iosSoftware",
+          "copyright": "© King.com Limited 2011-2016. All rights reserved.",
+          "artistId": "526656015",
+          "artistUrl": "https://itunes.apple.com/us/developer/king/id526656015?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/39/63/6d396358-3db0-694e-ea47-83ac4f5db529/AppIcon-1x_U007emarketing-0-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/farm-heroes-saga/id608206510?mt=8"
+        },
+        {
+          "artistName": "Big Fish Games, Inc",
+          "id": "1090242126",
+          "releaseDate": "2016-07-15",
+          "name": "Jackpot Magic Slots™ & Casino",
+          "kind": "iosSoftware",
+          "copyright": "© Big Fish Games, Inc.",
+          "artistId": "292594310",
+          "artistUrl": "https://itunes.apple.com/us/developer/big-fish-games-inc/id292594310?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/af/04/c3/af04c38d-98cd-8660-7b97-3055d43394eb/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/jackpot-magic-slots-casino/id1090242126?mt=8"
+        },
+        {
+          "artistName": "Warner Bros.",
+          "id": "1035712810",
+          "releaseDate": "2017-10-17",
+          "name": "Game of Thrones: Conquest™",
+          "kind": "iosSoftware",
+          "copyright": "™ & © 2017 Home Box Office, Inc. ™ & © Warner Bros. Entertainment Inc. (s17)",
+          "artistId": "298372283",
+          "artistUrl": "https://itunes.apple.com/us/developer/warner-bros/id298372283?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/65/ef/90/65ef9012-a39e-ff2e-148a-771767ca2ea4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/game-of-thrones-conquest/id1035712810?mt=8"
+        },
+        {
+          "artistName": "Game Show Network",
+          "id": "892521917",
+          "releaseDate": "2014-08-13",
+          "name": "Solitaire Tripeaks – Card Game",
+          "kind": "iosSoftware",
+          "copyright": "© 2014 GSN All Rights Reserved",
+          "artistId": "342254535",
+          "artistUrl": "https://itunes.apple.com/us/developer/game-show-network/id342254535?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/86/a6/a9/86a6a947-09d2-f47f-af74-a46ec49a3bf0/mzl.rqlajkzb.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/solitaire-tripeaks-card-game/id892521917?mt=8"
+        },
+        {
+          "artistName": "PeopleFun, Inc.",
+          "id": "1207472156",
+          "releaseDate": "2017-06-14",
+          "name": "Wordscapes",
+          "kind": "iosSoftware",
+          "copyright": "© Copyright 2017 Peoplefun, Inc.",
+          "artistId": "517840947",
+          "artistUrl": "https://itunes.apple.com/us/developer/peoplefun-inc/id517840947?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/b8/c3/e3/b8c3e302-7536-ee52-7743-43fa3b9dce8d/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "6017",
+              "name": "Education",
+              "url": "https://itunes.apple.com/us/genre/id6017"
+            },
+            {
+              "genreId": "7019",
+              "name": "Word",
+              "url": "https://itunes.apple.com/us/genre/id7019"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/wordscapes/id1207472156?mt=8"
+        },
+        {
+          "artistName": "Electronic Arts",
+          "id": "466965151",
+          "releaseDate": "2011-12-15",
+          "name": "The Sims™ FreePlay",
+          "kind": "iosSoftware",
+          "copyright": "© 2017 Electronic Arts Inc. All Rights Reserved.",
+          "artistId": "284800461",
+          "artistUrl": "https://itunes.apple.com/us/developer/electronic-arts/id284800461?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/34/af/30/34af3089-c005-2811-9020-7bc2a50fb428/AppIcon-1x_U007emarketing-0-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/the-sims-freeplay/id466965151?mt=8"
+        },
+        {
+          "artistName": "Electronic Arts",
+          "id": "921022358",
+          "releaseDate": "2015-11-24",
+          "name": "Star Wars™: Galaxy of Heroes",
+          "kind": "iosSoftware",
+          "copyright": "STAR WARS © & TM 2015 Lucasfilm Ltd.  All rights reserved. Game code & certain audio and/or visual material © 2015 Electronic Arts Inc. EA, EA logo, Capital Games are trademarks of Electronic Arts Inc",
+          "artistId": "284800461",
+          "artistUrl": "https://itunes.apple.com/us/developer/electronic-arts/id284800461?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/ae/44/c8/ae44c816-9a5f-c418-57f2-4666d8bbd782/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/star-wars-galaxy-of-heroes/id921022358?mt=8"
+        },
+        {
+          "artistName": "IGG.COM",
+          "id": "1071976327",
+          "releaseDate": "2016-03-31",
+          "name": "Lords Mobile: War Kingdom",
+          "kind": "iosSoftware",
+          "copyright": "© IGG.COM",
+          "artistId": "1303288190",
+          "artistUrl": "https://itunes.apple.com/us/developer/igg-com/id1303288190?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/54/b3/9d/54b39df1-7018-068e-38bb-3a8485b2796e/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/lords-mobile-war-kingdom/id1071976327?mt=8"
+        },
+        {
+          "artistName": "High 5 Games",
+          "id": "673354210",
+          "releaseDate": "2013-11-08",
+          "name": "High 5 Casino: Hot Vegas Slots",
+          "kind": "iosSoftware",
+          "copyright": "© PTT, LLC d/b/a High 5 Games",
+          "artistId": "592475048",
+          "artistUrl": "https://itunes.apple.com/us/developer/high-5-games/id592475048?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/da/b4/c0dab4ec-ff53-9899-9348-2c14d48e2c46/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/high-5-casino-hot-vegas-slots/id673354210?mt=8"
+        },
+        {
+          "artistName": "Big Fish Games, Inc",
+          "id": "1029094059",
+          "releaseDate": "2017-06-26",
+          "name": "Cooking Craze – Fix Food Fast",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Big Fish Games, Inc.",
+          "artistId": "292594310",
+          "artistUrl": "https://itunes.apple.com/us/developer/big-fish-games-inc/id292594310?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/cf/20/b0/cf20b0e5-46c0-dcd7-79ff-431ee50e1bf2/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/cooking-craze-fix-food-fast/id1029094059?mt=8"
+        },
+        {
+          "artistName": "gu yunhe",
+          "id": "1273162445",
+          "releaseDate": "2017-08-23",
+          "name": "Word Crossy - A crossword game",
+          "kind": "iosSoftware",
+          "copyright": "© Word Crossy",
+          "artistId": "1273162444",
+          "artistUrl": "https://itunes.apple.com/us/developer/gu-yunhe/id1273162444?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/32/d6/fe/32d6fe04-d75c-1f16-80ad-55fcec2a41d9/AppIcon-1x_U007emarketing-P3-85-220-7.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7019",
+              "name": "Word",
+              "url": "https://itunes.apple.com/us/genre/id7019"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/word-crossy-a-crossword-game/id1273162445?mt=8"
+        },
+        {
+          "artistName": "Social Point",
+          "id": "653508448",
+          "releaseDate": "2013-12-12",
+          "name": "Monster Legends",
+          "kind": "iosSoftware",
+          "copyright": "© 2013 socialpoint",
+          "artistId": "403274694",
+          "artistUrl": "https://itunes.apple.com/us/developer/social-point/id403274694?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/c2/44/2a/c2442aa5-2f64-9128-62e5-c54f7fb12022/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/monster-legends/id653508448?mt=8"
+        },
+        {
+          "artistName": "Firecraft Studios Ltd.",
+          "id": "1216575026",
+          "releaseDate": "2017-10-11",
+          "name": "Match-3: Matchington Mansion",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Firecraft Studios",
+          "artistId": "1399403555",
+          "artistUrl": "https://itunes.apple.com/us/developer/firecraft-studios-ltd/id1399403555?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ab/c7/62/abc762bc-4302-e16e-890e-53477d2fc3cf/AppIcon-1x_U007emarketing-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7009",
+              "name": "Family",
+              "url": "https://itunes.apple.com/us/genre/id7009"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/match-3-matchington-mansion/id1216575026?mt=8"
+        },
+        {
+          "artistName": "Gameloft",
+          "id": "731592936",
+          "releaseDate": "2016-03-16",
+          "name": "Disney Magic Kingdoms",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Gameloft. All Rights Reserved. Gameloft and the logo Gameloft are trademarks of Gameloft in the US and/or other countries. © Disney. © Disney/Pixar.",
+          "artistId": "282764297",
+          "artistUrl": "https://itunes.apple.com/us/developer/gameloft/id282764297?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a0/33/72/a03372d5-9bea-62c5-195a-7125f904317f/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7009",
+              "name": "Family",
+              "url": "https://itunes.apple.com/us/genre/id7009"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/disney-magic-kingdoms/id731592936?mt=8"
+        },
+        {
+          "artistName": "Seriously",
+          "id": "868013618",
+          "releaseDate": "2014-10-09",
+          "name": "Best Fiends - Puzzle Adventure",
+          "kind": "iosSoftware",
+          "copyright": "© Seriously Digital Entertainment Ltd.",
+          "artistId": "868013621",
+          "artistUrl": "https://itunes.apple.com/us/developer/seriously/id868013621?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/d3/f9/9d/d3f99dbd-1b6a-8d75-580d-dd368cabe09b/AppIcon-1x_U007emarketing-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/best-fiends-puzzle-adventure/id868013618?mt=8"
+        },
+        {
+          "artistName": "King",
+          "id": "572821456",
+          "releaseDate": "2013-06-12",
+          "name": "Pet Rescue Saga",
+          "kind": "iosSoftware",
+          "copyright": "© King.com Limited 2013-2016. All rights reserved.",
+          "artistId": "526656015",
+          "artistUrl": "https://itunes.apple.com/us/developer/king/id526656015?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/71/df/25/71df25ea-543e-dff8-1c64-fb568e691be3/AppIcon-1x_U007emarketing-0-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/pet-rescue-saga/id572821456?mt=8"
+        },
+        {
+          "artistName": "wooga",
+          "id": "594802437",
+          "releaseDate": "2013-09-05",
+          "name": "Pearl’s Peril: Hidden Objects",
+          "kind": "iosSoftware",
+          "copyright": "© Wooga GmbH",
+          "artistId": "461402737",
+          "artistUrl": "https://itunes.apple.com/us/developer/wooga/id461402737?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/24/00/8f24000e-cfd2-c823-88b0-33295b19f6dd/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/pearls-peril-hidden-objects/id594802437?mt=8"
+        },
+        {
+          "artistName": "Com2uS Corp.",
+          "id": "852912420",
+          "releaseDate": "2014-06-12",
+          "name": "Summoners War",
+          "kind": "iosSoftware",
+          "copyright": "© 2014 Com2uS",
+          "artistId": "299175870",
+          "artistUrl": "https://itunes.apple.com/us/developer/com2us-corp/id299175870?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/40/61/0b/40610bae-e63c-ea49-3d5f-ec2fa931ab70/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/summoners-war/id852912420?mt=8"
+        },
+        {
+          "artistName": "Small Giant Games",
+          "id": "1117841866",
+          "releaseDate": "2017-03-01",
+          "name": "Empires & Puzzles: RPG Quest",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Small Giant Games Inc.",
+          "artistId": "791124596",
+          "artistUrl": "https://itunes.apple.com/us/developer/small-giant-games/id791124596?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cc/dc/cf/ccdccf0c-f057-acb8-5340-a6a67404b7d8/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/empires-puzzles-rpg-quest/id1117841866?mt=8"
+        },
+        {
+          "artistName": "Scopely",
+          "id": "1206967173",
+          "releaseDate": "2017-11-01",
+          "name": "New Yahtzee® with Buddies Dice",
+          "kind": "iosSoftware",
+          "copyright": "© Scopely Inc",
+          "artistId": "305003647",
+          "artistUrl": "https://itunes.apple.com/us/developer/scopely/id305003647?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/4e/69/e8/4e69e8a1-3b9c-9989-5b9c-d52d4a1eb826/AppIcon-1x_U007emarketing-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7009",
+              "name": "Family",
+              "url": "https://itunes.apple.com/us/genre/id7009"
+            },
+            {
+              "genreId": "7004",
+              "name": "Board",
+              "url": "https://itunes.apple.com/us/genre/id7004"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/new-yahtzee-with-buddies-dice/id1206967173?mt=8"
+        },
+        {
+          "artistName": "Plarium LLC",
+          "id": "966810173",
+          "releaseDate": "2015-08-15",
+          "name": "Vikings: War of Clans",
+          "kind": "iosSoftware",
+          "copyright": "© Plarium LLC, 2015",
+          "artistId": "1053231049",
+          "artistUrl": "https://itunes.apple.com/us/developer/plarium-llc/id1053231049?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e7/94/3f/e7943f57-3a1f-0fea-603a-cbc42b7fcbd2/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/vikings-war-of-clans/id966810173?mt=8"
+        },
+        {
+          "artistName": "FoxNext Games, LLC",
+          "id": "1292952049",
+          "releaseDate": "2018-03-28",
+          "name": "MARVEL Strike Force",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 MARVEL and FoxNext Games",
+          "artistId": "1292952048",
+          "artistUrl": "https://itunes.apple.com/us/developer/foxnext-games-llc/id1292952048?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2b/83/1d/2b831d87-27d7-7289-f55d-1608638f9c53/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7001",
+              "name": "Action",
+              "url": "https://itunes.apple.com/us/genre/id7001"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/marvel-strike-force/id1292952049?mt=8"
+        },
+        {
+          "artistName": "Lucky Money Vegas Slot Casino Games",
+          "id": "1135852485",
+          "releaseDate": "2016-07-26",
+          "name": "Wild Classic Slots™ Casino",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Blowfire Ltd.",
+          "artistId": "1044161834",
+          "artistUrl": "https://itunes.apple.com/us/developer/lucky-money-vegas-slot-casino-games/id1044161834?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/21/d1/8c/21d18ccd-e3bd-2efa-8bff-fd518167ac86/AppIcon-1x_U007emarketing-85-220-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/wild-classic-slots-casino/id1135852485?mt=8"
+        },
+        {
+          "artistName": "Murka Entertainment Limited",
+          "id": "1133138987",
+          "releaseDate": "2016-10-01",
+          "name": "Slots Era: Best Casino Slots",
+          "kind": "iosSoftware",
+          "copyright": "© Murka Entertainment Limited",
+          "artistId": "476936085",
+          "artistUrl": "https://itunes.apple.com/us/developer/murka-entertainment-limited/id476936085?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ae/df/ba/aedfba76-28ed-f7fc-06a8-731d5c154318/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/slots-era-best-casino-slots/id1133138987?mt=8"
+        },
+        {
+          "artistName": "Nickelodeon",
+          "id": "932828299",
+          "releaseDate": "2015-03-04",
+          "name": "NOGGIN Preschool",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Viacom International Inc. All Rights Reserved.",
+          "artistId": "304682075",
+          "artistUrl": "https://itunes.apple.com/us/developer/nickelodeon/id304682075?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/05/be/d605be70-aa0e-55ee-39a7-bd407ab8d5e3/AppIcon-1x_U007emarketing-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6017",
+              "name": "Education",
+              "url": "https://itunes.apple.com/us/genre/id6017"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/noggin-preschool/id932828299?mt=8"
+        },
+        {
+          "artistName": "Zynga Inc.",
+          "id": "1073286211",
+          "releaseDate": "2016-05-18",
+          "name": "The Wizard of Oz Magic Match 3",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Zynga Inc.",
+          "artistId": "295913422",
+          "artistUrl": "https://itunes.apple.com/us/developer/zynga-inc/id295913422?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/10/9e/34/109e34d2-8569-7620-bf1e-cd53b231f726/AppIcon-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/the-wizard-of-oz-magic-match-3/id1073286211?mt=8"
+        },
+        {
+          "artistName": "Niantic, Inc.",
+          "id": "1094591345",
+          "releaseDate": "2016-07-07",
+          "name": "Pokémon GO",
+          "kind": "iosSoftware",
+          "copyright": "© 2016-2018 Niantic, Inc. © 2016-2018 Pokémon. © 1995-2018 Nintendo/Creatures Inc./GAME FREAK inc.",
+          "artistId": "1037205060",
+          "artistUrl": "https://itunes.apple.com/us/developer/niantic-inc/id1037205060?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/44/8e/57/448e571d-65d1-4b51-fdbb-f369aeda7589/AppIcon-1x_U007emarketing-85-220-0-8.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6013",
+              "name": "Health & Fitness",
+              "url": "https://itunes.apple.com/us/genre/id6013"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/pok%C3%A9mon-go/id1094591345?mt=8"
+        },
+        {
+          "artistName": "FunPlus",
+          "id": "1084930849",
+          "releaseDate": "2016-07-13",
+          "name": "King of Avalon: Dragon Warfare",
+          "kind": "iosSoftware",
+          "copyright": "© Published & copyrighted by DIANDIAN INTERACTIVE HOLDING",
+          "artistId": "495598783",
+          "artistUrl": "https://itunes.apple.com/us/developer/funplus/id495598783?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/ae/aa/64/aeaa649c-5f5f-8161-b057-a486ec5a23f9/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            },
+            {
+              "genreId": "7017",
+              "name": "Strategy",
+              "url": "https://itunes.apple.com/us/genre/id7017"
+            },
+            {
+              "genreId": "6005",
+              "name": "Social Networking",
+              "url": "https://itunes.apple.com/us/genre/id6005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/king-of-avalon-dragon-warfare/id1084930849?mt=8"
+        },
+        {
+          "artistName": "Fun Games For Free",
+          "id": "1009442510",
+          "releaseDate": "2015-07-06",
+          "name": "Colorfy: Coloring Art Games",
+          "kind": "iosSoftware",
+          "copyright": "© Fun Games For Free",
+          "artistId": "618574061",
+          "artistUrl": "https://itunes.apple.com/us/developer/fun-games-for-free/id618574061?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/53/c9/3d/53c93da1-0b48-9a4a-30fd-d8eac9c1b32e/AppIcon-1x_U007emarketing-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "6018",
+              "name": "Books",
+              "url": "https://itunes.apple.com/us/genre/id6018"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/colorfy-coloring-art-games/id1009442510?mt=8"
+        },
+        {
+          "artistName": "Big Fish Games, Inc",
+          "id": "887640616",
+          "releaseDate": "2015-03-18",
+          "name": "Fairway Solitaire - Card Game",
+          "kind": "iosSoftware",
+          "copyright": "© 2018 Big Fish Games, inc.",
+          "artistId": "292594310",
+          "artistUrl": "https://itunes.apple.com/us/developer/big-fish-games-inc/id292594310?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fe/90/54/fe9054d9-b1ba-9663-ed5a-540bfc596e84/AppIcon-1x_U007emarketing-85-220-5.jpeg/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7012",
+              "name": "Puzzle",
+              "url": "https://itunes.apple.com/us/genre/id7012"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/fairway-solitaire-card-game/id887640616?mt=8"
+        },
+        {
+          "artistName": "Social Point",
+          "id": "561941526",
+          "releaseDate": "2013-03-21",
+          "name": "Dragon City Mobile",
+          "kind": "iosSoftware",
+          "copyright": "© 2015 Socialpoint",
+          "artistId": "403274694",
+          "artistUrl": "https://itunes.apple.com/us/developer/social-point/id403274694?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/7f/ec/41/7fec417d-718a-9067-d85c-d50b77a66860/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7014",
+              "name": "Role Playing",
+              "url": "https://itunes.apple.com/us/genre/id7014"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/dragon-city-mobile/id561941526?mt=8"
+        },
+        {
+          "artistName": "Smule",
+          "id": "509993510",
+          "releaseDate": "2012-08-08",
+          "name": "Smule - The #1 Singing App",
+          "kind": "iosSoftware",
+          "copyright": "© 2012-2018 Smule, Inc.",
+          "artistId": "290596339",
+          "artistUrl": "https://itunes.apple.com/us/developer/smule/id290596339?mt=8",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/d6/9d/d0/d69dd0f3-72d7-91c3-4c5d-fac84347babd/AppIcon-CCCP-1x_U007emarketing-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6011",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id6011"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/smule-the-1-singing-app/id509993510?mt=8"
+        },
+        {
+          "artistName": "Phantom EFX",
+          "id": "986110430",
+          "releaseDate": "2016-06-15",
+          "name": "777 Slots - Hot Shot Casino",
+          "kind": "iosSoftware",
+          "copyright": "© 2016 Scientific Games Interactive",
+          "artistId": "310624343",
+          "artistUrl": "https://itunes.apple.com/us/developer/phantom-efx/id310624343?mt=8",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/39/52/b6/3952b60d-1409-1c81-0322-6b650f27d36e/AppIcon-1x_U007emarketing-85-220-8.jpeg/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6005",
+              "name": "Social Networking",
+              "url": "https://itunes.apple.com/us/genre/id6005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/777-slots-hot-shot-casino/id986110430?mt=8"
+        },
+        {
+          "artistName": "ME2ZEN Limited",
+          "id": "994102781",
+          "releaseDate": "2015-06-18",
+          "name": "Slots - Classic Vegas Casino",
+          "kind": "iosSoftware",
+          "copyright": "©2017 ME2ZEN",
+          "artistId": "1314355663",
+          "artistUrl": "https://itunes.apple.com/us/developer/me2zen-limited/id1314355663?mt=8",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/22/46/1f/22461fe2-edce-7472-127b-9f0e20a1bacc/AppIcon-1x_U007emarketing-0-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "7005",
+              "name": "Card",
+              "url": "https://itunes.apple.com/us/genre/id7005"
+            },
+            {
+              "genreId": "7006",
+              "name": "Casino",
+              "url": "https://itunes.apple.com/us/genre/id7006"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/slots-classic-vegas-casino/id994102781?mt=8"
+        },
+        {
+          "artistName": "NaturalMotion",
+          "id": "887947640",
+          "releaseDate": "2016-06-29",
+          "name": "CSR Racing 2",
+          "kind": "iosSoftware",
+          "copyright": "© (2015-2017) NaturalMotion Games Ltd",
+          "artistId": "330281898",
+          "artistUrl": "https://itunes.apple.com/us/developer/naturalmotion/id330281898?mt=8",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/32/9b/b7/329bb754-e2d6-b017-3375-e9fe4d1a3a22/AppIcon-1x_U007emarketing-85-220-0-9.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7013",
+              "name": "Racing",
+              "url": "https://itunes.apple.com/us/genre/id7013"
+            },
+            {
+              "genreId": "7003",
+              "name": "Arcade",
+              "url": "https://itunes.apple.com/us/genre/id7003"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/csr-racing-2/id887947640?mt=8"
+        },
+        {
+          "artistName": "Ludia",
+          "id": "791211390",
+          "releaseDate": "2015-04-29",
+          "name": "Jurassic World™: The Game",
+          "kind": "iosSoftware",
+          "copyright": "© 2015-2017 Ludia Inc. Jurassic World™ is a trademark and copyright of Universal Studios and Amblin Entertainment, Inc. Licensed by Universal Studios Licensing LLC. All rights reserved.",
+          "artistId": "293912963",
+          "artistUrl": "https://itunes.apple.com/us/developer/ludia/id293912963?mt=8",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/7c/e4/0d/7ce40d2d-2c2b-aa01-378d-534fde5ea40f/AppIcon-1x_U007emarketing-85-220-0-6.png/200x200bb.png",
+          "genres": [
+            {
+              "genreId": "6014",
+              "name": "Games",
+              "url": "https://itunes.apple.com/us/genre/id6014"
+            },
+            {
+              "genreId": "6016",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016"
+            },
+            {
+              "genreId": "7015",
+              "name": "Simulation",
+              "url": "https://itunes.apple.com/us/genre/id7015"
+            },
+            {
+              "genreId": "7002",
+              "name": "Adventure",
+              "url": "https://itunes.apple.com/us/genre/id7002"
+            }
+          ],
+          "url": "https://itunes.apple.com/us/app/jurassic-world-the-game/id791211390?mt=8"
+        }
+      ]
+    }
+  }
