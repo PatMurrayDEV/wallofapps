@@ -66,11 +66,21 @@ function layOutScreen(feed) {
     if (elements.data.length == 7) {
       var subgrid = $('<div class="sub-grid"></div>');
       elements.data.forEach(app => {
-        var url = app.artworkUrl100;
+        var url = fixURL(app.artworkUrl100);
+
         var obj = '<div style="background-image: URL(' + url + ')"></div>'
         $(subgrid).append(obj)
       });
       $("#grid").append(subgrid)
+    }
+  }
+
+  function fixURL(url) {
+    if (url.indexOf("100x100bb") !== -1) {
+      var newURL = url.replace('100x100bb', '200x200bb');
+      return newURL
+    } else {
+      return url
     }
   }
 
