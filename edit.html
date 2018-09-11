@@ -175,11 +175,14 @@
         function getApps() {
             $("#current").empty();
             var localapps = JSON.parse(localStorage.getItem("apps"));
-            localapps.forEach(app => {
-                var name = app.trackName;
-                var obj = '<li>' + name + '</li>'
-                $("#current").append(obj)
-            });
+            if (localapps && localapps.length > 0) {
+                localapps.forEach(app => {
+                    var name = app.trackName;
+                    var obj = '<li>' + name + '</li>'
+                    $("#current").append(obj)
+                });
+            }
+
         }
         function clearList() {
             localStorage.removeItem("apps");
