@@ -17,7 +17,7 @@ function getPaidApps() {
     $.ajax(settings).done(function (response) {
         console.log(response);
 
-        freeApps = response.feed.results;
+        paidApps = response.feed.results;
 
         setAppStore();
     });
