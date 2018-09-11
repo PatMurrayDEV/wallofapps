@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Edit Wall</title>
     <style>
         body {
             margin: 0;
@@ -13,18 +13,149 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
         }
-        textarea {
+
+        p,
+        ul,
+        li {
+            color: white;
+        }
+
+        .container {
             margin: auto;
             margin-top: 3em;
             display: block;
+            max-width: 900px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 300px;
+        }
+
+        .pace {
+            -webkit-pointer-events: none;
+            pointer-events: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        .pace-inactive {
+            display: none;
+        }
+
+        .pace .pace-progress {
+            background-color: RGB(248, 168, 57);
+            position: fixed;
+            z-index: -1;
+            top: 0;
+            right: 100%;
+            bottom: 0;
+            width: 100%;
+        }
+
+        button {
+            -moz-box-shadow: inset 0px 1px 0px 0px #ffffff;
+            -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+            box-shadow: inset 0px 1px 0px 0px #ffffff;
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+            background: -moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background: -webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background: -o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background: -ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background: linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6', GradientType=0);
+            background-color: #ffffff;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+            border-radius: 6px;
+            border: 1px solid #dcdcdc;
+            display: inline-block;
+            cursor: pointer;
+            color: #666666;
+            font-size: 15px;
+            font-weight: bold;
+            padding: 6px 24px;
+            text-decoration: none;
+            text-shadow: 0px 1px 0px #ffffff;
+        }
+
+        button:hover {
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+            background: -moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background: -webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background: -o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background: -ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background: linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff', GradientType=0);
+            background-color: #f6f6f6;
+        }
+
+        button:active {
+            position: relative;
+            top: 1px;
         }
     </style>
 </head>
 
 <body>
 
-    <textarea name="" id="" cols="80" rows="10"></textarea>
 
+    <div class="container">
+        <p>Paste in iTunes URLs (one per line) to add them to the Wall</p>
+        <textarea id="textArea"></textarea>
+        <button onclick="getAppsFromTextArea();">Add</button>
+        <p><strong>Current Apps:</strong></p>
+        <ul id="current"></ul>
+        <button onclick="clearList();">Clear List</button>
+    </div>
+
+
+    <script src="/pace.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script>
+        function getAppsFromTextArea() {
+            var lines = $("#textArea").val().split('\n');
+            for (var i = 0; i < lines.length; i++) {
+                //https://itunes.apple.com/au/app/atlas-wallpaper/id1368484008?mt=8
+                var parts = lines[i].split('id');
+                var id = parts[1].split('?')[0];
+                console.log("id", id);
+                getAppWithId(id);
+            }
+        }
+        function getAppWithId(appID) {
+            $.getJSON("https://itunes.apple.com/lookup?callback=?&id=" + appID, function (response) {
+                //response data are now in the result variable
+
+                var apps = response.results;
+                saveApps([apps[0]]);
+            });
+        }
+        function saveApps(array) {
+            var old = JSON.parse(localStorage.getItem("apps"));
+            if (old === null) old = [];
+            var newData = old.concat(array);
+            localStorage.setItem("apps", JSON.stringify(newData));
+            getApps();
+        }
+        function getApps() {
+            $("#current").empty();
+            var localapps = JSON.parse(localStorage.getItem("apps"));
+            localapps.forEach(app => {
+                var name = app.trackName;
+                var obj = '<li>' + name + '</li>'
+                $("#current").append(obj)
+            });
+        }
+        function clearList() {
+            localStorage.removeItem("apps");
+            getApps();
+        }
+
+        getApps();
+
+    </script>
 </body>
 
 </html>
