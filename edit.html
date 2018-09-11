@@ -259,7 +259,7 @@
         function setTopApps(array) {
             array.forEach(app => {
                 var name = app.name;
-                var obj = '<li><button onclick="getAppWithId(' + app.id + ');">+</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
+                var obj = '<li><button onclick="getAppWithId(' + app.id + ', "US");">+</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
                 $("#topapps").append(obj)
             });
         }
