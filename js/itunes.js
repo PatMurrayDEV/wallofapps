@@ -39,8 +39,8 @@ function getFreeApps() {
 }
 
 function setAppStore() {
-    console.log(freeApps);
-    console.log(paidApps);
+    console.log("freeApps", freeApps);
+    console.log("paidApps", paidApps);
     if (freeApps && paidApps) {
         console.log("combine");
         var arrayCombined = $.map(freeApps, function(v, i) {
