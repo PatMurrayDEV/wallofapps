@@ -39,10 +39,13 @@ function getFreeApps() {
 }
 
 function setAppStore() {
+    console.log(freeApps);
+    console.log(paidApps);
     if (freeApps && paidApps) {
         var arrayCombined = $.map(freeApps, function(v, i) {
             return [v, paidApps[i]];
         });
+        console.log(arrayCombined);
         layOutScreen(arrayCombined);
     }
 }
