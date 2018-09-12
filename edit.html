@@ -200,8 +200,11 @@
                 response) {
                 //response data are now in the result variable
 
-                var apps = response.results;
-                saveApps([apps[0]]);
+                if (response.results.length > 0) {
+                    var apps = response.results;
+                    saveApps([apps[0]]);
+                }
+                
             });
         }
 
