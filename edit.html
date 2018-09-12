@@ -125,6 +125,32 @@
             position: relative;
             top: 1px;
         }
+
+        button.small {
+            padding: 1px 6px;
+            width: 30px;
+            height: 30px;
+            margin-left: auto;
+            display: block;
+            position: relative;
+            margin-top: -40px;
+            margin-right: 10px;
+            margin-bottom: 20px;
+        }
+
+        li {
+            display: inline-block;
+            font-size: 70%;
+            width: 10%;
+            min-width: 80px;
+            vertical-align: top;
+            margin-right: 10px;
+        }
+
+        .icon {
+            width: 100%;
+            border-radius: 20%;
+        }
     </style>
 </head>
 
@@ -166,14 +192,17 @@
 
             }
         }
+
         function getAppWithId(appID, country) {
-            $.getJSON("https://itunes.apple.com/lookup?callback=?&id=" + appID + "&country=" + country, function (response) {
+            $.getJSON("https://itunes.apple.com/lookup?callback=?&id=" + appID + "&country=" + country, function (
+                response) {
                 //response data are now in the result variable
 
                 var apps = response.results;
                 saveApps([apps[0]]);
             });
         }
+
         function saveApps(array) {
             var old = JSON.parse(localStorage.getItem("apps"));
             if (old === null) old = [];
@@ -181,6 +210,7 @@
             localStorage.setItem("apps", JSON.stringify(newData));
             getApps();
         }
+
         function getApps() {
             $("#current").empty();
             var localapps = JSON.parse(localStorage.getItem("apps"));
@@ -188,12 +218,16 @@
                 localapps.forEach(app => {
                     var name = app.trackName;
                     console.log(app);
-                    var obj = '<li><button onclick="removeApp(' + app.trackId + ');">-</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
+                    var obj = '<li><img class="icon" src="' + app.artworkUrl100 +
+                        '"><button class="small" onclick="removeApp(' + app.trackId +
+                        ');">-</button>' + name +
+                        '</li>'
                     $("#current").append(obj)
                 });
             }
 
         }
+
         function clearList() {
             localStorage.removeItem("apps");
             getApps();
@@ -260,7 +294,10 @@
         function setTopApps(array) {
             array.forEach(app => {
                 var name = app.name;
-                var obj = '<li><button onclick="getAppWithId(' + app.id + ', \'US\');">+</button>&nbsp;&nbsp;&nbsp;&nbsp;' + name + '</li>'
+                var obj = '<li><img class="icon" src="' + app.artworkUrl100 +
+                    '"><button class="small" onclick="getAppWithId(' + app.id +
+                    ', \'US\');">+</button>' + name +
+                    '</li>'
                 $("#topapps").append(obj)
             });
         }
@@ -279,12 +316,10 @@
             })
 
             console.log(old);
-            
+
             localStorage.setItem("apps", JSON.stringify(old));
             getApps();
         }
-
-
     </script>
 </body>
 
