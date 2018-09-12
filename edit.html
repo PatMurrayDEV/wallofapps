@@ -154,24 +154,27 @@
 
 
     <div class="container">
-        <a class="button" href="/edit" style="float: right;margin: 21px;">Present Wall</a>
+        <a class="button" href="/" style="float: right;margin: 21px;">Present Wall</a>
 
         <h1>Edit Wall of Apps</h1>
 
         <h2>Current Apps:</h2>
         <button onclick="clearList();">Clear List</button>
         <button onclick="shuffleApps();">Shuffle List</button>
+        <!-- <button onclick="exportList();">Export</button>
+        <button onclick="importList();">Import</button> -->
+        <input id="file-input" type="file" name="name" style="display: none;" accept=".json" />
         <ul id="current"></ul>
 
-<hr>
-        
+        <hr>
+
         <h2>Add Apps:</h2>
         <h3>iTunes URL</h3>
         <p>Paste in iTunes URLs (one per line) to add them to the Wall</p>
-        <textarea id="textArea"></textarea><br/>
+        <textarea id="textArea"></textarea><br />
         <button onclick="getAppsFromTextArea();">Add</button>
-        
-        
+
+
 
         <h3>Top Apps</h3>
         <ul id="topapps"></ul>
@@ -181,6 +184,20 @@
     <script src="/pace.min.js"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
     <script>
+
+        // function exportList() {
+
+        // }
+
+        // function importList() {
+        //     $('#file-input').trigger('click');
+        // }
+
+        // $("#file-input").change(function () {
+        //     var fileName = $(this).val();
+            
+        // });
+
         function getAppsFromTextArea() {
             var lines = $("#textArea").val().split('\n');
             for (var i = 0; i < lines.length; i++) {
@@ -229,7 +246,7 @@
                     var apps = response.results;
                     saveApps([apps[0]]);
                 }
-                
+
             });
         }
 
