@@ -175,8 +175,8 @@
         <h2>Current Apps:</h2>
         <button onclick="clearList();">Clear List</button>
         <button onclick="shuffleApps();">Shuffle List</button>
-        <!-- <button onclick="exportList();">Export</button>
-        <button onclick="importList();">Import</button> -->
+        <button onclick="exportList();">Export</button>
+        <button onclick="importList();">Import</button>
         <input id="file-input" type="file" name="name" style="display: none;" accept=".json" />
         <ul id="current"></ul>
 
@@ -200,8 +200,7 @@
     <script>
 
         function exportList() {
-            var string = "data:text/json," + localStorage.getItem("apps");
-            window.location.href = string;
+            window.open("data:application/json," + localStorage.getItem("apps"), "_self");
         }
 
         function importList() {
@@ -214,6 +213,8 @@
                 var reader = new FileReader();
                 reader.onload = function (e) {
                     console.log(e.target.result);
+                    localStorage.apps = e.target.result;
+                    getApps();
                 }
                 reader.readAsText(this.files[0]);
             }
