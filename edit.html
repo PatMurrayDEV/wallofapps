@@ -200,7 +200,23 @@
     <script>
 
         function exportList() {
-            window.open("data:application/json," + localStorage.getItem("apps"), "_self");
+            
+            var localapps = JSON.parse(localStorage.getItem("apps"));
+            var exportApps = [];
+            
+            if (localapps && localapps.length > 0) {
+                localapps.forEach(app => {
+                    var exportApp = {
+                        'trackName': app.trackName,
+                        'artworkUrl100': app.artworkUrl100,
+                        'trackId' : app.trackId,
+                        'trackViewUrl': app.trackViewUrl
+                    };
+                    exportApps.append(exportApp);
+                });
+            }
+
+            window.open("data:application/json," + JSON.stringify(exportApps), "_self");
         }
 
         function importList() {
