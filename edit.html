@@ -178,6 +178,7 @@
         <button onclick="exportList();">Export</button>
         <button onclick="importList();">Import</button>
         <input id="file-input" type="file" name="name" style="display: none;" accept=".json" />
+        <a id="downloadLink" href="" download="wallofapps.json" hidden></a>
         <ul id="current"></ul>
 
         <hr>
@@ -215,8 +216,9 @@
                     exportApps.append(exportApp);
                 });
             }
-
-            window.open("data:application/json," + JSON.stringify(exportApps), "_self");
+            var string = "data:application/json," + JSON.stringify(exportApps)
+            $("#downloadLink").attr('href', string);
+            $('#downloadLink').trigger('click');
         }
 
         function importList() {
