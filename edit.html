@@ -164,8 +164,10 @@
         <textarea id="textArea"></textarea>
         <button onclick="getAppsFromTextArea();">Add</button>
         <p><strong>Current Apps:</strong></p>
-        <ul id="current"></ul>
         <button onclick="clearList();">Clear List</button>
+        <button onclick="shuffleApps();">Shuffle List</button>
+        <ul id="current"></ul>
+        
 
         <p><strong>Top Apps:</strong></p>
         <ul id="topapps"></ul>
@@ -193,6 +195,25 @@
 
 
             }
+        }
+
+        function shuffleApps() {
+            var old = JSON.parse(localStorage.getItem("apps"));
+            if (old === null) old = [];
+            var newData = shuffle(array);
+            localStorage.setItem("apps", JSON.stringify(newData));
+            getApps();
+        }
+
+        function shuffle(a) {
+            var j, x, i;
+            for (i = a.length - 1; i > 0; i--) {
+                j = Math.floor(Math.random() * (i + 1));
+                x = a[i];
+                a[i] = a[j];
+                a[j] = x;
+            }
+            return a;
         }
 
         function getAppWithId(appID, country) {
