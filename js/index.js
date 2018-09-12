@@ -106,6 +106,7 @@ $( "body" ).dblclick(function() {
 });
 
 function toggleFullScreen() {
+  
   if ((document.fullScreenElement && document.fullScreenElement !== null) ||    
    (!document.mozFullScreen && !document.webkitIsFullScreen)) {
     if (document.documentElement.requestFullScreen) {  
@@ -125,3 +126,8 @@ function toggleFullScreen() {
     }  
   }  
 }
+
+$(document).on('webkitfullscreenchange mozfullscreenchange fullscreenchange', function(e) {
+    //do something;
+    $("#modalContainer").toggle()
+});
