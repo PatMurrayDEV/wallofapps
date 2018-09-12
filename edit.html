@@ -25,11 +25,13 @@
             margin-top: 3em;
             display: block;
             max-width: 900px;
+            padding: 1em;
         }
 
         textarea {
             width: 100%;
             height: 300px;
+            margin: auto;
         }
 
         .pace {
@@ -218,7 +220,7 @@
                 localapps.forEach(app => {
                     var name = app.trackName;
                     console.log(app);
-                    var obj = '<li><img class="icon" src="' + app.artworkUrl100 +
+                    var obj = '<li><img class="icon" src="' + fixURL(app.artworkUrl100) +
                         '"><button class="small" onclick="removeApp(' + app.trackId +
                         ');">-</button>' + name +
                         '</li>'
@@ -294,7 +296,7 @@
         function setTopApps(array) {
             array.forEach(app => {
                 var name = app.name;
-                var obj = '<li><img class="icon" src="' + app.artworkUrl100 +
+                var obj = '<li><img class="icon" src="' + fixURL(app.artworkUrl100) +
                     '"><button class="small" onclick="getAppWithId(' + app.id +
                     ', \'US\');">+</button>' + name +
                     '</li>'
@@ -319,6 +321,15 @@
 
             localStorage.setItem("apps", JSON.stringify(old));
             getApps();
+        }
+
+        function fixURL(url) {
+            if (url.indexOf("100x100bb") !== -1) {
+                var newURL = url.replace('100x100bb', '200x200bb');
+                return newURL
+            } else {
+                return url
+            }
         }
     </script>
 </body>
