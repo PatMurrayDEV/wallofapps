@@ -199,9 +199,10 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
     <script>
 
-        // function exportList() {
-
-        // }
+        function exportList() {
+            var string = "data:text/json," + localStorage.getItem("apps");
+            window.location.href = string;
+        }
 
         function importList() {
             $('#file-input').trigger('click');
