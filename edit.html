@@ -203,14 +203,20 @@
 
         // }
 
-        // function importList() {
-        //     $('#file-input').trigger('click');
-        // }
+        function importList() {
+            $('#file-input').trigger('click');
+        }
 
-        // $("#file-input").change(function () {
-        //     var fileName = $(this).val();
-            
-        // });
+        $("#file-input").change(function () {
+            var fileName = $(this).val();
+            if (this.files && this.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    console.log(e.target.result);
+                }
+                reader.readAsText(this.files[0]);
+            }
+        });
 
         function getAppsFromTextArea() {
             var lines = $("#textArea").val().split('\n');
