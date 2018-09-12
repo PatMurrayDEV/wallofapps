@@ -200,7 +200,7 @@
         function shuffleApps() {
             var old = JSON.parse(localStorage.getItem("apps"));
             if (old === null) old = [];
-            var newData = shuffle(array);
+            var newData = shuffle(old);
             localStorage.setItem("apps", JSON.stringify(newData));
             getApps();
         }
