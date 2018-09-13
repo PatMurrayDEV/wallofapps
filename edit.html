@@ -216,7 +216,7 @@
                     exportApps.push(exportApp);
                 });
             }
-            var string = "data:application/json," + JSON.stringify(exportApps)
+            var string = "data:text/json," + JSON.stringify(exportApps)
             $("#downloadLink").attr('href', string);
             $('#downloadLink').trigger('click');
         }
