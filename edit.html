@@ -203,7 +203,7 @@
         function exportList() {
             
             var localapps = JSON.parse(localStorage.getItem("apps"));
-            var exportApps = [];
+            var exportApps = new Array();
             
             if (localapps && localapps.length > 0) {
                 localapps.forEach(app => {
@@ -213,7 +213,7 @@
                         'trackId' : app.trackId,
                         'trackViewUrl': app.trackViewUrl
                     };
-                    exportApps.append(exportApp);
+                    exportApps.push(exportApp);
                 });
             }
             var string = "data:application/json," + JSON.stringify(exportApps)
