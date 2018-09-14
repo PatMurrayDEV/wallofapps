@@ -175,10 +175,9 @@
         <h2>Current Apps:</h2>
         <button onclick="clearList();">Clear List</button>
         <button onclick="shuffleApps();">Shuffle List</button>
-        <button onclick="exportList();">Export</button>
+        <a class="button" id="downloadLink" href="" download="wallofapps.json">Export</a>
         <button onclick="importList();">Import</button>
         <input id="file-input" type="file" name="name" style="display: none;" accept=".json" />
-        <a id="downloadLink" href="" download="wallofapps.json" hidden></a>
         <ul id="current"></ul>
 
         <hr>
@@ -201,10 +200,8 @@
     <script>
 
         function exportList() {
-            
             var localapps = JSON.parse(localStorage.getItem("apps"));
             var exportApps = new Array();
-            
             if (localapps && localapps.length > 0) {
                 localapps.forEach(app => {
                     var exportApp = {
@@ -218,7 +215,6 @@
             }
             var string = "data:text/json," + JSON.stringify(exportApps)
             $("#downloadLink").attr('href', string);
-            $('#downloadLink').trigger('click');
         }
 
         function importList() {
@@ -312,7 +308,7 @@
                     $("#current").append(obj)
                 });
             }
-
+            exportList();
         }
 
         function clearList() {
