@@ -175,8 +175,8 @@
         <h2>Current Apps:</h2>
         <button onclick="clearList();">Clear List</button>
         <button onclick="shuffleApps();">Shuffle List</button>
-        <!-- <button onclick="exportList();">Export</button>
-        <button onclick="importList();">Import</button> -->
+        <a class="button" id="downloadLink" href="" download="wallofapps.json">Export</a>
+        <button onclick="importList();">Import</button>
         <input id="file-input" type="file" name="name" style="display: none;" accept=".json" />
         <ul id="current"></ul>
 
@@ -199,18 +199,40 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
     <script>
 
-        // function exportList() {
+        function exportList() {
+            var localapps = JSON.parse(localStorage.getItem("apps"));
+            var exportApps = new Array();
+            if (localapps && localapps.length > 0) {
+                localapps.forEach(app => {
+                    var exportApp = {
+                        'trackName': app.trackName,
+                        'artworkUrl100': app.artworkUrl100,
+                        'trackId' : app.trackId,
+                        'trackViewUrl': app.trackViewUrl
+                    };
+                    exportApps.push(exportApp);
+                });
+            }
+            var string = "data:text/json," + JSON.stringify(exportApps)
+            $("#downloadLink").attr('href', string);
+        }
 
-        // }
+        function importList() {
+            $('#file-input').trigger('click');
+        }
 
-        // function importList() {
-        //     $('#file-input').trigger('click');
-        // }
-
-        // $("#file-input").change(function () {
-        //     var fileName = $(this).val();
-            
-        // });
+        $("#file-input").change(function () {
+            var fileName = $(this).val();
+            if (this.files && this.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    console.log(e.target.result);
+                    localStorage.apps = e.target.result;
+                    getApps();
+                }
+                reader.readAsText(this.files[0]);
+            }
+        });
 
         function getAppsFromTextArea() {
             var lines = $("#textArea").val().split('\n');
@@ -286,7 +308,7 @@
                     $("#current").append(obj)
                 });
             }
-
+            exportList();
         }
 
         function clearList() {
